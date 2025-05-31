@@ -1,5 +1,5 @@
 # Project name
-PROJECT = stub
+PROJECT = dib_2025
 
 # Imported files
 CHIBIOS  := $(CHIBIOS_SOURCE_PATH)
